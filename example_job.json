@@ -1,0 +1,157 @@
+{
+    "slug": "25736-604612",
+    "language": "en-us",
+    "languages": [
+      "en-us"
+    ],
+    "req_id": "403466BR",
+    "title": "Package Handler- Switcher FT",
+    "description": "",
+    "street_address": "1101 E Cleveland Road",
+    "city": "Hutchins",
+    "state": "Texas",
+    "country_code": "US",
+    "postal_code": "75141",
+    "location_type": "LAT_LNG",
+    "latitude": 32.6574419,
+    "longitude": -96.7055958,
+    "categories": [
+      {
+        "name": "Handler/Dockworker"
+      },
+      {
+        "name": "Operations"
+      },
+      {
+        "name": "Transportation Services"
+      },
+      {
+        "name": "Warehouse & Distribution"
+      }
+    ],
+    "tags": [
+      "groundcareers"
+    ],
+    "tags5": [
+      "FedEx Ground"
+    ],
+    "tags6": [
+      "Non-Exempt"
+    ],
+    "brand": "FedEx Ground",
+    "promotion_value": 0,
+    "salary_currency": "USD",
+    "salary_value": 0,
+    "salary_min_value": 0,
+    "salary_max_value": 0,
+    "benefits": [
+      "VISION",
+      "SICK_DAYS",
+      "VACATION",
+      "DENTAL",
+      "PARENTAL_LEAVE",
+      "CHILD_CARE",
+      "MEDICAL"
+    ],
+    "employment_type": "FULL_TIME",
+    "hiring_organization": "FedEx Ground",
+    "source": "ground-careers",
+    "apply_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25736&siteid=5029&jobid=604612",
+    "internal": false,
+    "searchable": true,
+    "applyable": true,
+    "li_easy_applyable": true,
+    "ats_code": "fedexground-prod-kenexa",
+    "meta_data": {
+      "ats": "kenexa",
+      "ats_instance": "Ground",
+      "client_code": "fedex",
+      "district_description": "Lone Star District",
+      "domicile_location": "FXG-US/USA/P753/Dallas - Hub",
+      "domicile_location_name": "Dallas - Hub",
+      "extensions": "KenexaResponsive",
+      "flow_config_name": "1026",
+      "gqid": "1026",
+      "import_source": "kenexa-job-importer",
+      "locale_id": "1033",
+      "login": "kenexa",
+      "login_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25736&siteid=5029&jobid=604612",
+      "openingjobs": {},
+      "partner_id": 25736,
+      "question_sets": [
+        {
+          "name": "fedexkenexa_registration_en_us",
+          "ordinal": 0
+        },
+        {
+          "name": "fedexground_1026_en_us",
+          "ordinal": 2
+        }
+      ],
+      "questionservice": {
+        "id": "28946776"
+      },
+      "region_description": "Gulf Region",
+      "site_id": "5029",
+      "source_tracking": {
+        "options": {
+          "login_url": true,
+          "url_parameter": "Codes"
+        },
+        "type": "url_parameter"
+      },
+      "use_poltergeist": false,
+      "googlejobs": {
+        "companyName": "f",
+        "jobName": "p",
+        "jobHash": "e245fa50c753492a57135d9fb2599086",
+        "derivedInfo": {
+          "jobCategories": [
+            "MANUFACTURING_AND_WAREHOUSE",
+            "TRANSPORTATION_AND_LOGISTICS"
+          ],
+          "locations": [
+            {
+              "latLng": {
+                "latitude": 32.6574419,
+                "longitude": -96.7055958
+              },
+              "locationType": "STREET_ADDRESS",
+              "postalAddress": {
+                "addressLines": [
+                  "1101 E Cleveland St, Hutchins, TX 75141, USA"
+                ],
+                "administrativeArea": "TX",
+                "languageCode": "",
+                "locality": "Hutchins",
+                "organization": "",
+                "postalCode": "75141",
+                "recipients": [],
+                "regionCode": "US",
+                "revision": 0,
+                "sortingCode": "",
+                "sublocality": ""
+              },
+              "radiusInMiles": 0.00009925704072722659
+            }
+          ]
+        },
+        "jobSummary": "",
+        "jobTitleSnippet": "",
+        "searchTextSnippet": ""
+      },
+      "canonical_url": "https://careers.fedex.com/jobs/25736-604612?lang=en-us",
+      "last_mod": "2024-02-02T06:06:02+0000",
+      "gdpr": false
+    },
+    "update_date": "2024-02-02T06:06:02+0000",
+    "create_date": "2024-02-02T06:06:00+0000",
+    "category": [
+      " Handler/Dockworker",
+      " Operations",
+      " Transportation Services",
+      " Warehouse & Distribution"
+    ],
+    "full_location": "Hutchins, Texas",
+    "short_location": "Hutchins, Texas"
+  }
